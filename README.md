@@ -1,5 +1,5 @@
-<h1 >Salom 👋, Men Boburov Shukurillo</h1>
-<h3 >frontend developer</h3>
+<h1 >Hi 👋, I'm Boburov Shukurillo</h1>
+<h3 >Frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
