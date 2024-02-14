@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Boburov Shukurillo</h1>
+
+
+"center">Hi 👋, I'm Boburov Shukurillo</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Restoran**
@@ -9,7 +11,7 @@
 
 - 💬 Ask me about **react , javascripte**
 
-- 📫 How to reach me **bsh200717@gmail.com**
+- 📫 How to reach me **boburovshukurilo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
