@@ -1,6 +1,4 @@
-
-
-"center">Hi 👋, I'm Boburov Shukurillo</h1>
+<h1 "center">Hi 👋, I'm Boburov Shukurillo</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Restoran**
