@@ -2,7 +2,7 @@
 <h3 align="">Frontend React Developer | Creative Coder | Life-long Learner</h3>
 
 <p align="start" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=30&color=3AFFD1&multiline=true&width=420&height=100&lines=Frontend+Developer+based+in+Germany;Love+React%2C+Tailwind+and+clean+UI;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=30&color=2ecc71&multiline=true&width=420&height=100&lines=Frontend+Developer+based+in+Germany;Love+React%2C+Tailwind+and+clean+UI;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
