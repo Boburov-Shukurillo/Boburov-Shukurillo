@@ -43,11 +43,11 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br/>HTML</td>
+      <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="65" height="65" /><br/>HTML</td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br/>CSS</td>
+      <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="65" height="65" /><br/>CSS</td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br/>JavaScript</td>
+      <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width="65" height="65" /><br/>JavaScript</td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br/>TypeScript</td>
     <td align="center" width="120">
