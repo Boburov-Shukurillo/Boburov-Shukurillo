@@ -1,18 +1,109 @@
-<h1 align="">Hey there, I'm Boburov Shukurullo 👋</h1>
-<h3 align="">Frontend React Developer | Creative Coder | Life-long Learner</h3>
+<h1>
+  Welcome to <span style="color:#38bdf8;">Boburov Shukurullo</span>'s GitHub 👋
+</h1>
 
-<p align="start" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=30&color=2ecc71&multiline=true&width=420&height=100&lines=Frontend+Developer+based+in+Uzbekistan;Love+React%2C+Tailwind+and+clean+UI;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
+<p>
+  🎨 Passionate Frontend Developer | 👨‍🏫 Educator | 🚀 UX-Driven Coder
 </p>
 
+<p>
+  I specialize in building sleek, performant, and scalable frontend applications with modern stacks.<br/>
+  My mission is to write code that not only works, but **teaches** and **inspires**.
+</p>
+
+<p>
+  Let's turn ideas into stunning web experiences 🌍
+</p>
+
+
+
+<a href="https://www.instagram.com/boburov.dev/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@boburovdev">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/boburovdev/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/boburovdev/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/boburovdev" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+##  My favorite tools and technologies ⚙️
+
+> Tools and technologies that I have worked with and am interested in
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" /><br/>HTML</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" /><br/>CSS</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="65" height="65" /><br/>JavaScript</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" /><br/>TypeScript</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br/>React</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" /><br/>Next.js</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" /><br/>Vite</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" /><br/>TailwindCSS</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" /><br/>Bootstrap</td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" /><br/>MUI</td>
+    <td align="center" width="120">
+      <img src="https://boburovdev.vercel.app/assets/gsap-06o1XVj9.jpg" width="65" height="65" /><br/>GSAP</td>
+    <td align="center" width="120">
+      <img src="https://boburovdev.vercel.app/assets/leaft-D1y6Qrjy.png" width="65" height="65"/><br/>Leaflet</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" /><br/>Node.js</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" /><br/>NestJS</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" /><br/>MongoDB</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" /><br/>PostgreSQL</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" /><br/>Git</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" /><br/>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" /><br/>Netlify</td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" /><br/>AWS S3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="65" height="65" /><br/>npm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" /><br/>Prisma</td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="65" height="65" /><br/>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" /><br/>Docker</td>
+  </tr>
+</table>
+
 ---
 
-## ✨ About Me
+## 👨‍💻 About Me (as code)
+```ts
+const boburovdev = {
+  name: "Boburov",
+  role: "Frontend Developer & Educator",
+  skills: ["React", "Next.js", "TailwindCSS", "GSAP", "NestJS"],
+  loves: ["clean code", "UI/UX", "open source", "teaching"],
+  location: "Uzbekistan",
+  portfolio: "https://boburovdev.vercel.app/"
+}
 
-🛠️ I'm currently working on building and refining my **personal website**, focusing on clean design and great UX.  
-🎓 I’m studying **Media Informatics** at **Berliner Hochschule für Technik**, where I explore the blend between media and computer science.  
-💻 I’ve been working as a **Web Developer** since **2022**, mainly focused on frontend development using modern tools and frameworks.  
-📹 I recently launched my YouTube channel **[Boburov Shukurullo]([https://youtube.com/@tobitacklestech](https://boburovdev.vercel.app/))** where I create short and insightful tech videos.
 
----
-<p align="center" width="200px"> <!-- Languages --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <!-- Frontend --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <!-- Backend --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <!-- Database --> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <!-- Tools --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> </p>
