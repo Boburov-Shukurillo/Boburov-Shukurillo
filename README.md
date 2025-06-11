@@ -75,7 +75,7 @@
       <img src="https://boburovdev.vercel.app/assets/gsap-06o1XVj9.jpg" width="60" /><br/>GSAP
     </td>
     <td align="center" width="100">
-      <img src="https://boburovdev.vercel.app/assets/leaft-D1y6Qrjy.png" width="60" style="margin-top:5px;" /><br/>Leaflet
+      <img src="https://boburovdev.vercel.app/assets/leaft-D1y6Qrjy.png" width="60" style="margin:50px;" /><br/>Leaflet
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="60" /><br/>Node.js
